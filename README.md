@@ -96,6 +96,16 @@ Prioritize records where reported costs substantially exceed sales, and validate
 
 Use Power BI dashboards to monitor revenue, profit margin, and loss-making sales lines across product categories and periods.
 
+### Finding: Cost Anomalies Require Both Relative and Absolute Risk Assessment
+
+Transaction-level analysis revealed multiple records with unusually high reported cost-to-sales ratios.
+
+For example, Order 86534 recorded costs approximately 57.84 times its sales value, while Order 85865 recorded a lower ratio of 12.09 but generated a substantially larger loss of 16,476.84.
+
+This indicates that prioritizing investigations based solely on cost-to-sales ratios may overlook transactions with greater financial impact.
+
+**Business Recommendation:** Establish a risk-based review process that considers both cost-to-sales ratios and absolute loss amounts. High-priority transactions should undergo cost validation and further investigation before corrective actions are implemented.
+
 ## 6. Power BI Dashboard
 
 ### Sales Overview
