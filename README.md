@@ -99,13 +99,10 @@ Use Power BI dashboards to monitor revenue, profit margin, and loss-making sales
 ## 6. Power BI Dashboard
 
 ### Sales Overview
-
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](image/sales_overview.png)
 
 ### Product Profitability
-
-![Product Profitability](images/product_profitability.png)
-
+![Product Profitability](image/product_profitability.png)
 ## 7. Project Structure
 
 ```text
