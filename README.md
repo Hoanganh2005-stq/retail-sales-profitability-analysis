@@ -109,10 +109,10 @@ This indicates that prioritizing investigations based solely on cost-to-sales ra
 ## 6. Power BI Dashboard
 
 ### Sales Overview
-![Sales Overview](image/Screenshot%202026-11-04%20000559.png)
+![Sales Overview](sales_overview.png)
 
 ### Product Profitability
-![Product Profitability](image/Screenshot%202026-11-04%20000716.png)
+![Product Profitability](product_profitability.png)
 ## 7. Project Structure
 
 ```text
