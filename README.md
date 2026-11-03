@@ -123,7 +123,7 @@ retail-sales-profitability-analysis/
 │   ├── 02_Sales_Profitability.sql
 │   ├── 03_Loss_Analysis.sql
 │   └── 04_Cost_Anomalies.sql
-└── images/
+└── image/
     ├── sales_overview.png
     └── product_profitability.png
 ```
